@@ -18,7 +18,7 @@ dependencies = [
     "peft>=0.19.1,<0.20.0",
     "tokenizers>=0.22.1",
     "transformers>=5.12.1,<5.13",
-    "accelerate==1.13.0",
+    "accelerate==1.15.0",
     "datasets>=4.8.4,<4.9.0",
     "trl==1.5.1",
     "hf_xet==1.4.3",
@@ -48,7 +48,7 @@ dependencies = [
     "nvidia-ml-py==12.560.30",
     "art",
     "tensorboard",
-    "python-dotenv==1.0.1",
+    "python-dotenv==1.2.2",
 
     # Remote filesystems
     "s3fs>=2024.5.0",
